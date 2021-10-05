@@ -1,0 +1,19 @@
+{
+  "name": "elm-iucn",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-elm": "^2.0.0-rc.0",
+    "autoprefixer": "^10.3.4",
+    "elm": "^0.19.1-5",
+    "parcel": "^2.0.0-rc.0",
+    "tailwindcss": "^2.2.15"
+  }
+}
